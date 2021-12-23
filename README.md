@@ -1,5 +1,5 @@
 # CryCryptBot
-Or the first Goland experience
+Or the first Golang experience
 ***
 This is the simple version of telegram wallet
 
